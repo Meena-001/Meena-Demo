@@ -1,0 +1,75 @@
+Software Engineering :
+===============
+Why is Software Engineering req ?
+	- To manage large Software
+	-for more scalability
+	-cost management 
+	-To manage the dynamic nature of software
+	-For better quality managmenet
+
+Characterstics fo Good Software Engineer ?
+--------------------------------------------------
+	-Exposoure to sysematic methods, he/she should familirity with SE principles.
+	-Good technical knowledge of the project (Domain knowledge)
+	-Good programming skills(C# programming)
+	-Good communication skills.(the person must posses with oral, written and interpersonal skills, high motivation)
+	- Sound knowedge of Computer Science
+
+	-Ability to work in Team
+
+
+SDLC 
+-------
+	Software Development Life Cycle Models:
+	---------------------------------------------------
+
+
+Agile Methodology:
+=================
+An Agile methodolgy is an iterative approach to software development. Each iteration(looping) of agile methodology take a short time interval of 1 to 4 weeks. The agile developement process is aligned to deilver the changing business requirement.
+It distirbutes the software with faster and fewer changed to the clients(Business unit).
+
+The Single phase software developement takes 6 to 18 months . 
+
+Tha agile software developmenet process frequently take the feedback of workspace product(customer). The workable product is devliverd with 1 to 4 weeks of iteration.
+
+
+Idias => Define => code => Integrate > Test  => Final Software ( 1 to 4 week)
+
+Roles in Agile :
+===============
+There are two diff roles in Agile methodlogy .
+
+	-Scrum Master : Scrum master  is a team leader (TL) and facility provider who helps the team memebr to follow the agaile practices, so that the team memebr meets their commitments and customer requirements.
+
+The Scrum play very important role :
+=============================
+		-They enable the close co-operation between all the roles and fuctions
+		-They remove all the block which occur project
+		-They play safeguard to the team meber from any distrubances.
+		-They work with org to track the progress and process of the project
+		-They ensure that Agile inspect and Adapt processe are correctly includes or not
+			-Planning metting
+			-Daily Stand-up(Story )
+			-Demo (project)
+			-Review 
+			-Retrospective meetins (whenever req)
+			-Facillate team meetings and take decision making process.
+			
+
+
+	-Product Owner :
+		The product owner is one who runs the product(software) from Business perspective.
+		The Product owner play also very improtant role:
+			-He defines the requiements and give prioritize their values
+			-He set and release date and contents
+			-He ensure that the team is working on the most valued requirement
+			-He represent the voice of the customer(commm. client)
+			-He accepts the user stores that meet the definition of done or defined acceptance criteria.
+
+
+
+
+
+
+
